@@ -1,6 +1,10 @@
 Silly-Stock-Predictions0.1
 <br>
-![7d9c06fe8d4a235d7848ef3062b225c](https://github.com/user-attachments/assets/b79817e3-ac76-40c9-b337-479b33b6bc3a)
+正常功能：可以查看历年股票的收盘价走势图，成交量走势图，线性回归模型的预测对比图
+
+<br>
+
+![7d9c06fe8d4a235d7848ef3062b225c](https://github.com/user-attachments/assets/ccf5a6d5-6b86-4524-bf7a-2a901ed66c06)
 
 <br>
 Tushare API Token：填写在Tushare注册的API Token
